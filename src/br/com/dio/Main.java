@@ -78,6 +78,7 @@ public class Main {
         System.out.println("O jogo está pronto para começar");
     }
 
+    
 
     private static void inputNumber() {
         if (isNull(board)){
